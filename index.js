@@ -13,5 +13,14 @@ function logShout(string) {
 function sayHiToGrandma(string) {
   string === string.toLowerCase()
     return 'I can\'t hear you!'
+}
 
+function sayHiToGrandma(string) {
+  string === string.toUpperCase()
+    return 'YES INDEED!'
+}
+
+function sayHiToGrandma(string) {
+  string === 'I love you, Grandma.'
+    return 'I love you, too.'
 }
