@@ -11,13 +11,13 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (true) string === string.toLowerCase()
+  if string === string.toLowerCase()
     return 'I can\'t hear you!'
 
-  else if (true) { string === string.toUpperCase()
+  else if { string === string.toUpperCase()
     return 'YES INDEED!' }
 
-  else if (true) { string === 'I love you, Grandma.'
+  else if { string === 'I love you, Grandma.'
     return 'I love you, too.' }
   }
 
